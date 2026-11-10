@@ -1,5 +1,7 @@
 # Tic-Tac-Toe — Play your way
 
+Live link : https://tic-tac-toe-livid-five.vercel.app/
+
 A responsive single-player Tic-Tac-Toe game built with HTML, CSS and vanilla JavaScript.
 
 ## Run in VS Code
